@@ -21,7 +21,7 @@ An application that is used to guess a secret number.
 This is an application that allows a user to add books, read, delete, update books on the website.
 **A Programming Quiz Web App:** [Quiz App](https://programming-quiz-app.onrender.com)
 This is a web application that allows people to take programming quiz.
-**The Team's Website** [TeamOP](https://emmanuelafolabi007.github.io/OP-Portfolio-site)
+**The Team's Website** [TeamOP](https://emmanuelafolabi007.github.io/OP-Portfolio-site](https://felix-mauyon.github.io/OP-Portfolio-site)
 
 **Connect with Me**
 [Linkedin](www.linkedin.com/in/emmanuel-afolabi-6a140a282)
