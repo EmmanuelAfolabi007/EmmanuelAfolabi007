@@ -18,7 +18,7 @@ An application that is used to guess a secret number.
 
 **Team Projects**
 **A BookShelf Application Web App:** [Bookshelf](https://bookshelf-mbnb.onrender.com)
-This is an application that allows a user to add books, read, delete, update books on the website.
+This is an application that allows a user to add, read, delete, update books on the website.
 **A Programming Quiz Web App:** [Quiz App](https://programming-quiz-app.onrender.com)
 This is a web application that allows people to take programming quiz.
 **The Team's Website** [TeamOP](https://felix-mauyon.github.io/OP-Portfolio-site/#)
