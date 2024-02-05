@@ -19,9 +19,9 @@ An application that is used to guess a secret number.
 **Team Projects**
 **A BookShelf Application Web App:** [Bookshelf](https://bookshelf-mbnb.onrender.com)
 This is an application that allows a user to add books, read, delete, update books on the website.
-**A Programming Quiz Web App:** https://programming-quiz-app.onrender.com/
+**A Programming Quiz Web App:** [Quiz App](https://programming-quiz-app.onrender.com)
 This is a web application that allows people to take programming quiz.
-**The Team's Website** https://github.com/kibo-web-dev-fundamentals-july-23/wdf-jul-23-final-project-ofa
+**The Team's Website** [TeamOP](https://emmanuelafolabi007.github.io/OP-Portfolio-site)
 
 **Connect with Me**
 [Linkedin](www.linkedin.com/in/emmanuel-afolabi-6a140a282)
