@@ -7,6 +7,7 @@ I love to teach and share my knowledge with others that's why the other part of 
 I am a good team player with great communication and analytical skills.
 
 **Projects**
+
 **Microprocessor Simulator:** [Simulator](https://github.com/kibo-programming-1-july-23/microprocessor-simulation-EmmanuelAfolabi007)
 This project is a simulation of a microprocessor, allowing users to understand and experiment with the functionalities of a microprocessor in a virtual environment. It provides a platform for studying the internal workings of a microprocessor and testing various instructions and algorithms.
 
