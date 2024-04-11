@@ -19,6 +19,9 @@ An application that is used to guess a secret number.
 
 **Team Projects**
 
+**Afrolodge:** [Afrolodge](https://afrologde-com.onrender.com)
+This is an web application that imitates AirBnB and it allows users to lease property, check out property and book property.
+
 **A BookShelf Application Web App:** [Bookshelf](https://bookshelf-mbnb.onrender.com)
 This is an application that allows a user to add, read, delete, update books on the website.
 
